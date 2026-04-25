@@ -29,7 +29,7 @@ The goal is to identify key factors that influence customer churn and provide ac
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard_1.png)
 
 View Interactive Dashboard on Tableau: https://public.tableau.com/views/Customerchurnanalysis_17770716825330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
